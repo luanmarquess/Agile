@@ -1,4 +1,5 @@
 ## SCRUM
+![ScrumBoard](img/board.jpg)
 
 Scrum é um framework de gestão ágil para projetos que tem como foco atender as pequenas equipes, onde a cultura de entrega, evolução, colaboração e transparência fazem parte da essência do time. 
 
